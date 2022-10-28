@@ -1,7 +1,5 @@
 ### Hi there, I am Nan Grimes and I love Git and GitHub. 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on RELX.com
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on ...
